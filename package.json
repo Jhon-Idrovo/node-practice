@@ -5,6 +5,10 @@
   "author": "Jhon Idrovo",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
   "devDependencies": {
     "nodemon": "^3.1.0"
   },
